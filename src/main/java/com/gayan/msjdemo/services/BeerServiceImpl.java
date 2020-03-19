@@ -35,3 +35,4 @@ public class BeerServiceImpl implements BeerService {
         log.debug("Deleting a beer...");
     }
 }
+
